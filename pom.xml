@@ -11,6 +11,7 @@
 	<groupId>pe.com.mibanco</groupId>
 	<artifactId>demo-spring-boot-cosmosdb</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<name>demo-spring-boot-cosmosdb</name>
 	<description>Demo Cosmos DB for Spring Boot</description>
 
